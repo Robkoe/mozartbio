@@ -1,0 +1,246 @@
+body{ background-color:#ffecb3
+}
+
+/*Nav bar menu button*/
+
+#button1 {color: white;
+}
+
+/*css for index*/
+
+/*jumbotron*/
+
+.jumbotron {
+display: flex;
+  align-items: center;
+background-image: url("../images/mozart24.jpg");
+  color: #ffffff;
+  background-size: cover;
+    height: 700px;
+    background-position: center;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    
+}
+.jumbotron h1 {
+        font-family: 'Tangerine', serif;
+        font-size: 150px;
+      }
+/*bio-container*/
+
+.bio-container{
+    margin-left:5%;
+    margin-right:5%;   
+}
+
+.bio-container h1{
+    font-family: 'Arial', sans-serif;
+    color:black;
+}
+
+.bio-container p {
+    text-align:justify; 
+    font-family: 'Arial',sans-serif;
+    color:black;
+}
+    
+/*end of css for index*/
+
+/*css for about*/
+.facts-container {
+    margin-top: 70px;
+}
+.facts-container h2{
+font-family:'Arial', sans-serif;
+color:black;
+}
+
+.facts-container p{
+    text-align:justify;
+    font-family:'Arial',sans-serif;
+    color:black;
+}
+
+.center-block {
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link {
+        color:purple;
+        text-decoration:none;
+}
+a:visited {
+           text-decoration:none;
+           color:#00b300;
+}
+a:hover {
+         text-decoration:none;
+         color:crimson;
+}
+.row-margin{
+    margin-top:6%;
+}
+/*styling for mozart trivia*/
+
+.trivia {
+    margin-left:1%;
+}
+.trivia h2{
+    font-family:'Arial', sans-serif;
+    color:black;
+}
+.#questions{
+    font-family:'Arial', sans-serif;
+    color:black;  
+    padding-left:0;
+}
+
+#questions li {
+    color: black;
+    font-family:'Arial', sans-serif;
+    font-size: 20px;
+	  } 
+
+#button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+     border-radius: 8px;
+    margin-left: 1%;
+}
+    
+
+#button3 {
+    background-color: #cc3399; /* Purple */
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+     border-radius: 8px;
+    margin-left: 1%;
+}
+
+#button4 {
+    background-color: #002db3; /* Blue */
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+     border-radius: 8px;
+    margin-left: 1%;
+}
+
+#button5 {
+    background-color: #e68a00; /* Green */
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+     border-radius: 8px;
+    margin-left: 1%;
+}
+
+#button6 {
+    background-color: #4d0000; /* Brown */
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+     border-radius: 8px;
+    margin-left: 1%;
+}
+
+/*end of css for about*/
+
+/*css for contact page*/
+#subscribe {
+font-family:'Arial', sans-serif;
+color:black;
+}
+
+#fan{
+    font-family:'Arial',sans-serif;
+    color:black;
+    font-size: 18px;
+}
+
+.portraits-container{
+    margin-top: 60px;
+}
+.form-container{
+    margin-top: 1%;
+}
+ 
+  input,
+  select,
+  textarea {
+    max-width: 350px;
+}
+
+#comment{
+    color:black;
+    font-family: inherit;
+}
+    
+textarea{
+    width: 100%;
+    height: 150px;
+    padding: 10px 12px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 12px;
+    resize: none;
+}
+
+#rotating-item-wrapper {
+	position: relative;
+	width: 230px;
+	height: 247px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.rotating-item {
+	display: none;
+	position: absolute; 
+    margin-top:10px;
+
+ 
+/* This is the end of the CSS for the CONTACT PAGE (CA)  */ 
+
+    
+
+
+
+
+
+
