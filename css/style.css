@@ -25,6 +25,7 @@ background-image: url("../images/mozart24.jpg");
 .jumbotron h1 {
         font-family: 'Tangerine', serif;
         font-size: 150px;
+        color:white;
       }
 /*bio-container*/
 
@@ -79,7 +80,7 @@ a:hover {
          color:crimson;
 }
 .row-margin{
-    margin-top:6%;
+    margin-top:50px;
 }
 /*styling for mozart trivia*/
 
